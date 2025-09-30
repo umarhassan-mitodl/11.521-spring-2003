@@ -5,6 +5,8 @@ description: 'Frequently Asked Questions: Reviviendo Gateway Overlay District, Z
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/b1f35bce34d841209474e862d3103e57_zoning_QA.pdf
 file_size: 80287
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

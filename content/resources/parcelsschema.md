@@ -4,6 +4,8 @@ description: The "Parcels" Database Schema
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/06bc9b6744fac2c5f44e5e5f19ec31dc_parcelsschema.pdf
 file_size: 114995
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

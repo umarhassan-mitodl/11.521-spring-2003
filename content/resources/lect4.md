@@ -4,6 +4,8 @@ description: Advanced SQL - Subqueries and Complex Joins
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/dde1442583c4746d07ca7a12bc0f6988_lect4.pdf
 file_size: 159571
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

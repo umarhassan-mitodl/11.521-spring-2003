@@ -4,6 +4,8 @@ description: 'Relational Database Design: A Solution for the Cambridge Fire Depa
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/4dd430183cfe080af503a6f2047ea5b5_lect7b.pdf
 file_size: 102167
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

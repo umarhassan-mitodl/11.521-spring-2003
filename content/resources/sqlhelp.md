@@ -4,6 +4,8 @@ description: Oracle SQL Help
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/f463243c642cbc11ee381781cf79b34c_sqlhelp.pdf
 file_size: 306465
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

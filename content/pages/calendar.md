@@ -2,6 +2,8 @@
 content_type: page
 description: This page has links to important resources for each session of the course.
 draft: false
+hide_download: true
+hide_download_original: null
 title: Calendar
 uid: edc3d262-307c-f4a5-1b5b-61195f77636f
 ---
@@ -149,7 +151,7 @@ Project: Implementing a Neighborhood Information System
 
 {{< tdclose >}}{{< tdopen >}}
 
-- {{% resource_link "876cae9b-7b30-45be-9fcc-b6a5a4a1b901" "http://www.cardi.cornell.edu/" %}} 
+- [http://www.cardi.cornell.edu/](https://cals.cornell.edu/global-development/our-work/our-initiatives/community-and-regional-development-institute-cardi-legacy) 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -157,9 +159,9 @@ Project: Implementing a Neighborhood Information System
 Metadata and MIT's Geodata Tool
 {{< tdclose >}}{{< tdopen >}}
 
-- {{% resource_link "50a297e1-e5cd-4593-aa9d-793e2300dcd9" "http://www.fgdc.gov/metadata" %}} 
-- {{% resource_link "9dfb5335-1564-4e48-93d5-df3a076eccd8" "http://libguides.mit.edu/content.php?pid=347508&sid=2843034" %}}
-- {{% resource_link "1516fcc8-0298-4ebe-b071-821fae2e04dd" "http://web.mit.edu/sde/www/help-test/site-index.html" %}}
+- [http://www.fgdc.gov/metadata](http://www.fgdc.gov/metadata) 
+- [http://libguides.mit.edu/content.php?pid=347508&sid=2843034](http://libguides.mit.edu/content.php?pid=347508&sid=2843034)
+- [http://web.mit.edu/sde/www/help-test/site-index.html](http://web.mit.edu/sde/www/help-test/site-index.html)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
@@ -167,8 +169,8 @@ Metadata and MIT's Geodata Tool
 ESRI's Spatial Database Engine
 {{< tdclose >}}{{< tdopen >}}
 
-- {{% resource_link "42f795a0-663b-4370-8d8e-d521d3049e7d" "http://www.esri.com/" %}} 
-- {{% resource_link "ec78a27c-1277-4de3-b145-09427745b436" "http://www.esri.com/software/arcims" %}} 
+- [http://www.esri.com/](http://www.esri.com/) 
+- [http://www.esri.com/software/arcims](http://www.esri.com/software/arcims) 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17

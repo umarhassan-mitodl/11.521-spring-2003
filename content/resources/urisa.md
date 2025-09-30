@@ -5,6 +5,8 @@ description: Script & Sample Queries to Create & Manipulate the URISA Proceeding
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/0d2ca17459f98b57ad1d81638b0a97f4_urisa.pdf
 file_size: 87481
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

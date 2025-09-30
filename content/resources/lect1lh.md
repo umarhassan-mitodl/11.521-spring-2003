@@ -4,6 +4,8 @@ description: 'The Marriage: Planners and Data'
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/5da6dc25a59b985bce321c7d21b94817_lect1LH.pdf
 file_size: 118977
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: 'Webtest: Urban Strategies Council''s Oaktown Database'
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/8900fdceba8d9596a1d88e80a704601e_Webtest_Oakland.pdf
 file_size: 157143
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

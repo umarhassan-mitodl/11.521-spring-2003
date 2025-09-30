@@ -4,6 +4,8 @@ description: Submitted Zoning Description
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/db5b4ab3e6506a0e12e280bba18e6092_Submitt_Zoning_31803.pdf
 file_size: 99183
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

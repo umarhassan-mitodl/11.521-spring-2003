@@ -4,6 +4,8 @@ description: Create SQL
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/fa795a8cc9ee78ce3edb41d3273a420e_lect9createsql.pdf
 file_size: 42611
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

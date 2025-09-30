@@ -4,6 +4,8 @@ description: SQL Queries
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/6c709491c64ef7c11050fc265d19f2d0_lect5queries.pdf
 file_size: 123383
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: 'Webtest: Neigborhood Knowledge Los Angeles'
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/75f01d382ecbb0f47ae948811d3066b9_Webtest_Los_Angeles.pdf
 file_size: 158663
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

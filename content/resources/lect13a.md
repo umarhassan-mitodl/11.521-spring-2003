@@ -4,6 +4,8 @@ description: Beyond The Vector Data Model
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/35e975023c98b1d0cfb1d5102b256c3e_lect13a.pdf
 file_size: 265764
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

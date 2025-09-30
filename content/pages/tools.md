@@ -2,6 +2,8 @@
 content_type: page
 description: This section includes resources that provide an in-depth introduction
   to using SQL.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
