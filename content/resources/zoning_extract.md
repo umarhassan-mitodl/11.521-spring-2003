@@ -4,8 +4,6 @@ description: Zoning Analysis
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/2ce8e6ce1e8207b8bb5063531c02afc5_zoning_extract.pdf
 file_size: 126509
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

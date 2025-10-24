@@ -4,8 +4,6 @@ description: Data Layers from the City of Lawrence
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/8560f39ef9c648b0dc4421b8262ca2fb_data_list_v2.pdf
 file_size: 79526
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: The Zoning Variance Database & More Advanced SQL Query Construction
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/e1a561117cae28678fdd9ba027b481f2_lect6.pdf
 file_size: 491166
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

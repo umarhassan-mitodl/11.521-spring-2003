@@ -4,8 +4,6 @@ description: Schema Version I
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/0971e93027b4ee2ad752a74d652a16b9_lect9s11.pdf
 file_size: 32151
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

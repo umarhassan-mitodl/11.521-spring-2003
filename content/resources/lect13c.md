@@ -4,8 +4,6 @@ description: Adding the Z
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/f80cbde943526aa02a55a98bf6c4afb5_lect13c.pdf
 file_size: 417856
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

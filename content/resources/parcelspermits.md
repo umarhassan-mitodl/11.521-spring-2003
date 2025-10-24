@@ -4,8 +4,6 @@ description: 'The "Parcels" Database: Permits'
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/b47a7dee72802a08a3234d7631a8df45_parcelspermits.pdf
 file_size: 54503
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

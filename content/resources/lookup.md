@@ -6,8 +6,6 @@ description: 'Grouping Zoning Applicants via Lookup
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/2fc0f978715038615a9fd6ca4da22ef8_lookup.pdf
 file_size: 332917
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

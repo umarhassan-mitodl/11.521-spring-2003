@@ -6,8 +6,6 @@ description: 'Progression of Stages in Efforts to Automate the Review of Zoning
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/d517bacda4a01117ea93d611f6bd0ab4_zoningchart.pdf
 file_size: 75319
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

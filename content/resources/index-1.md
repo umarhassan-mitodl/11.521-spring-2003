@@ -4,8 +4,6 @@ description: SQL Notes
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/ccbfc3437752b7f97e4b86c62ad2ab26_index.pdf
 file_size: 118398
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

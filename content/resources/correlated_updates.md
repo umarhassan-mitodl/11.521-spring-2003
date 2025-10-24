@@ -4,8 +4,6 @@ description: ''
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/6869d346c142144a8f55ec67b131a57d_correlated_updates.pdf
 file_size: 85926
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

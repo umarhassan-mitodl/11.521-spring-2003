@@ -4,8 +4,6 @@ description: 'The "Parcels" Database: Owners'
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/6d6561c3d0a87836feb012913d108f6d_parcelsowners.pdf
 file_size: 81192
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

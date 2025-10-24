@@ -4,8 +4,6 @@ description: 'Lab 5: Mapping Boston Zoning Variances'
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/6e839872849ac68c88ecfe9dc7a99c02_lect10.pdf
 file_size: 244179
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

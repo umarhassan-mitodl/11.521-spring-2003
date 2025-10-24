@@ -6,8 +6,6 @@ description: 'Proposed RGO District.
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/2e09cdb7ed12ee1ca4d274d4e661714d_zoningmap.pdf
 file_size: 339296
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: 'The "Parcels" Database: Switchboard'
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/c5296bde71ab2efab698a875d79cdbe7_parcels.pdf
 file_size: 72174
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

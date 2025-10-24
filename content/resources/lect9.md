@@ -6,8 +6,6 @@ description: 'Database Design--from E-R Diagram to
 file: /courses/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/ddf82a6c39c15365be9fcab888dac312_lect9.pdf
 file_size: 197067
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
