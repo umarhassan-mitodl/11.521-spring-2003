@@ -2,8 +2,6 @@
 content_type: page
 description: This page has links to important resources for each session of the course.
 draft: false
-hide_download: true
-hide_download_original: null
 title: Calendar
 uid: edc3d262-307c-f4a5-1b5b-61195f77636f
 ---
