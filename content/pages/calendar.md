@@ -149,7 +149,7 @@ Project: Implementing a Neighborhood Information System
 
 {{< tdclose >}}{{< tdopen >}}
 
-- [http://www.cardi.cornell.edu/](https://cals.cornell.edu/global-development/our-work/our-initiatives/community-and-regional-development-institute-cardi-legacy) 
+- {{% resource_link "8436b1ca-a85d-42ee-86dc-d23d7260822e" "http://www.cardi.cornell.edu/" %}} 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -157,9 +157,9 @@ Project: Implementing a Neighborhood Information System
 Metadata and MIT's Geodata Tool
 {{< tdclose >}}{{< tdopen >}}
 
-- [http://www.fgdc.gov/metadata](http://www.fgdc.gov/metadata) 
-- [http://libguides.mit.edu/content.php?pid=347508&sid=2843034](http://libguides.mit.edu/content.php?pid=347508&sid=2843034)
-- [http://web.mit.edu/sde/www/help-test/site-index.html](http://web.mit.edu/sde/www/help-test/site-index.html)
+- {{% resource_link "e3e9af65-9749-42b3-bc16-92962ec6cc50" "http://www.fgdc.gov/metadata" %}} 
+- {{% resource_link "5f647a78-2820-48e1-815a-b7959d6d7a62" "http://libguides.mit.edu/content.php?pid=347508&sid=2843034" %}}
+- {{% resource_link "0827737d-6233-4d86-ad3a-8282c077eb6f" "http://web.mit.edu/sde/www/help-test/site-index.html" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
@@ -167,8 +167,8 @@ Metadata and MIT's Geodata Tool
 ESRI's Spatial Database Engine
 {{< tdclose >}}{{< tdopen >}}
 
-- [http://www.esri.com/](http://www.esri.com/) 
-- [http://www.esri.com/software/arcims](http://www.esri.com/software/arcims) 
+- {{% resource_link "7b5ac0fd-917f-452e-bdd4-69beff3eafcd" "http://www.esri.com/" %}} 
+- {{% resource_link "3d9ee940-1b89-4c33-bcda-1af2ed6f0f54" "http://www.esri.com/software/arcims" %}} 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
