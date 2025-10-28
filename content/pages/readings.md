@@ -11,26 +11,26 @@ uid: afc985cc-44fc-9281-d7a7-bfb8a02ce9d0
 Texts
 -----
 
-*   Oracle 8i Documentation available online at [http://technet.oracle.com/docs/products/oracle8i/doc\_index.htm](http://technet.oracle.com/docs/products/oracle8i/doc_index.htm).  
+*   Oracle 8i Documentation available online at {{% resource_link "e13f2869-fd5c-4402-8e0f-48e0d3badb37" "http://technet.oracle.com/docs/products/oracle8i/doc\_index.htm" %}}.  
     The documentation is generally available both in HTML format (good for viewing online in a browser) and PDF format (better for printing).  
       
     Particularly useful references:
-    *   [Oracle 8i SQL Reference](http://technet.oracle.com/docs/products/oracle8i/doc_library/817_doc/server.817/a85397/toc.htm). This is the authoritative reference for Oracle's flavor of SQL.  
+    *   {{% resource_link "9c23c5be-b0b8-43e4-a778-9c19bb3de8ef" "Oracle 8i SQL Reference" %}}. This is the authoritative reference for Oracle's flavor of SQL.  
           
         
-    *   [SQL\*Plus Quick Reference](http://technet.oracle.com/docs/products/oracle8i/doc_library/817_doc/server.817/a82951/toc.htm). A concise guide to SQL\*Plus commands.  
+    *   {{% resource_link "c0985c25-f4e1-4e59-afa7-ad1012cf8524" "SQL\*Plus Quick Reference" %}}. A concise guide to SQL\*Plus commands.  
           
         
-    *   [SQL\*Plus Reference](http://technet.oracle.com/docs/products/oracle8i/doc_library/817_doc/server.817/a82950/toc.htm). The full SQL\*Plus manual.  
+    *   {{% resource_link "76d54dd7-c098-414c-908f-3d088c31fd86" "SQL\*Plus Reference" %}}. The full SQL\*Plus manual.  
           
         
-    *   [Oracle 8i Designing and Tuning for Performance](http://technet.oracle.com/docs/products/oracle8i/doc_library/817_doc/server.817/a76992/toc.htm). Suggests ways to tune queries and database designs to improve performance. Offers insights into how Oracle operates.  
+    *   {{% resource_link "f4f35b1a-fcc7-4557-8178-08437f8aaa0c" "Oracle 8i Designing and Tuning for Performance" %}}. Suggests ways to tune queries and database designs to improve performance. Offers insights into how Oracle operates.  
           
         
-    *   [Oracle 8i Error Messages](http://technet.oracle.com/docs/products/oracle8i/doc_library/817_doc/server.817/a76999/toc.htm). Provides extra information about Oracle's sometimes cryptic error messages.  
+    *   {{% resource_link "86390dad-32eb-4461-b12c-0d5dad3976ba" "Oracle 8i Error Messages" %}}. Provides extra information about Oracle's sometimes cryptic error messages.  
         
 
-> Note: To access this documentation you will need to register for a free membership to the [Oracle Technology Network](http://technet.oracle.com/). To register, click the 'My Profile' button in the upper right portion of the page and then complete and submit the registration form.
+> Note: To access this documentation you will need to register for a free membership to the {{% resource_link "ef71b038-f521-450d-adb2-1cdea689548a" "Oracle Technology Network" %}}. To register, click the 'My Profile' button in the upper right portion of the page and then complete and submit the registration form.
 
 *   Worboys, Michael F. _GIS: A Computing Perspective._ London: Taylor & Francis, 1995. (Paperback).  
       
